@@ -5,7 +5,8 @@ By using it, one can process images and videos to identify objects, faces.
 Object Detection is a computer technology related to computer vision, image processing, and deep learning that deals with detecting instances of objects in images and videos.
 To get started you will need to install pip packages 
 Run The following command in the terminal to install opencv.
-pip install opencv-python
+pip install opencv-python![Screenshot (1)](https://user-images.githubusercontent.com/46048039/189388614-b154dd9d-8972-4d26-9c66-671ec9654bb6.png)
+
 
 To install cvzone you will need to install
 pip install cvzone
